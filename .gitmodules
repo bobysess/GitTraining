@@ -1,0 +1,6 @@
+[submodule "otherGitRepo"]
+	path = otherGitRepo
+	url = ./otherGitRepo
+[submodule "submod"]
+	path = submod
+	url = git@github.com:bobysess/OtherGitRepo.git
